@@ -1,0 +1,6 @@
+{
+  "name": "IceShield AI - 풍력 터빈 과냉각 수적 방빙 관제 솔루션",
+  "description": "과냉각 수적(SLD) 예측 기반 풍력 발전기 블레이드 지능형 결빙 방지 및 핀포인트 펄스 가열 관제 시뮬레이터 (Zero-Icing & 70% 전력 절감)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
